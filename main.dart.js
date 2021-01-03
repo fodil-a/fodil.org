@@ -58709,7 +58709,7 @@ D.DE.prototype={
 L:function(a,b){var s=null
 return M.fb(s,s,C.q,s,s,s,s,s,s,s,s,s,s)}}
 F.AF.prototype={
-L:function(a,b){return new S.rn("/",new F.R9(),"Flutter Demo",X.a9N(C.S).h7(),!1,null)}}
+L:function(a,b){return new S.rn("/",new F.R9(),"Fodil's blog",X.a9N(C.S).h7(),!1,null)}}
 F.R9.prototype={
 $1:function(a){return T.ahc(a,new F.R8(a),t.z)},
 $S:354}
